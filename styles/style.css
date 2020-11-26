@@ -1,0 +1,24 @@
+body {
+    background-color: orange;
+    font-family: monospace;
+}
+
+div {
+    width: 1800px;
+    padding: 20px;
+    border: 5px solid brown;
+    margin: 30px;
+    border-radius: 10px 20px 30px;
+    background-color: white;
+  }
+
+  .container1 {
+    text-align:center;
+    margin-top: 10px;
+}
+
+h1 {
+    text-align:center;
+    color: #ff6a28;
+    margin-bottom: 15px;
+}
